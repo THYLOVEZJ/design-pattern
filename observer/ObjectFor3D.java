@@ -1,4 +1,4 @@
-package com.thylovecode.adapter;
+package com.thylovecode.observer;
 
 import java.util.ArrayList;
 import java.util.List;

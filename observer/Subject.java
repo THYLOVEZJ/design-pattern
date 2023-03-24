@@ -1,4 +1,4 @@
-package com.thylovecode.adapter;
+package com.thylovecode.observer;
 
 public interface Subject {
     /**
