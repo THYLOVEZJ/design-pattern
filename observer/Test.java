@@ -14,8 +14,8 @@ public class Test {
         Observer observer1 = new Observer1(subjectFor3d);
         Observer observer2 = new Observer2(subjectFor3d);
 
-        subjectFor3d.setMsg("20140420的3D号码是：127" );
-        subjectFor3d.setMsg("20140421的3D号码是：333" );
+        subjectFor3d.setMsg("20140420的3D号码是：127");
+        subjectFor3d.setMsg("20140421的3D号码是：333");
 
     }
 }
